@@ -1,7 +1,7 @@
 # parameters
-ARG REPO_NAME="<REPO_NAME_HERE>"
-ARG DESCRIPTION="<DESCRIPTION_HERE>"
-ARG MAINTAINER="<YOUR_FULL_NAME> (<YOUR_EMAIL_ADDRESS>)"
+ARG REPO_NAME="cmput412-exercise1-B-2.3"
+ARG DESCRIPTION="Getting my bot to say hello (RH2 Unit B-2.3)"
+ARG MAINTAINER="Celina (csheng2@ualberta.ca)"
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
 ARG ICON="cube"
 
